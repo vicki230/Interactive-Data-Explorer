@@ -1,10 +1,10 @@
 """
-Name: Victoria Korbackova
+Name: Victoria Korbačková
 CS230: Final Project
 Data: NJ Maritime Museum Shipwreck Database
-Section: XXX
+Section: CS230-2
 Dataset: Shipwrecks_clean.csv
-URL: https://share.streamlit.io/username/repo/app.py
+URL: https://interactive-data-explorer-shipwrecks.streamlit.app/
 Description:
 This Streamlit application allows interactive exploration of shipwrecks in New Jersey.
 Users can filter shipwrecks by year, vessel type, cause of loss, and draft (depth),
